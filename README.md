@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate backend and cybersecurity student from Brazizl</h3>
+<h3 align="center">A passionate backend and cybersecurity student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielssgf&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielssgf" /> </p>
 
 - 🌱 I’m currently learning **Javascript and CyberSecurity Training**
 
-- 👨‍💻 All of my projects are available at [https://gabrielssg.journoportfolio.com/#/](https://gabrielssg.journoportfolio.com/#/)
+- 👨‍💻 All of my projects are available at [https://gabrielssg.journoportfolio.com/](https://gabrielssg.journoportfolio.com/)
 
 - 📫 How to reach me **gabriel_ssgoes@outlook.com**
 
