@@ -20,4 +20,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=SistemaDeAmortizacao&theme=holi)](https://github.com/GabrielSSGF/SistemaDeAmortizacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Report-Generator-for-Jira&theme=holi)](https://github.com/GabrielSSGF/Report-Generator-for-Jira)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Shopping-Planner&theme=omni)](https://github.com/GabrielSSGF/Shopping-Planner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Activity-Report-for-Confluence&theme=holi)](https://github.com/GabrielSSGF/Activity-Report-for-Confluence)
