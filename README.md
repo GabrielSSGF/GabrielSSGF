@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://gabrielssg.journoportfolio.com/](https://gabrielssg.journoportfolio.com/)
-
 - 📫 How to reach me
     - **gabriel_ssgoes@outlook.com**
     - <a href="https://linkedin.com/in/gabriel-soares-588832199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel soares" height="30" width="40" /></a>
@@ -20,3 +18,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=SistemaDeAmortizacao&theme=holi)](https://github.com/GabrielSSGF/SistemaDeAmortizacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Report-Generator-for-Jira&theme=holi)](https://github.com/GabrielSSGF/Report-Generator-for-Jira)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Shopping-Planner&theme=omni)](https://github.com/GabrielSSGF/Shopping-Planner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSGF&repo=Activity-Report-for-Confluence&theme=holi)](https://github.com/GabrielSSGF/Activity-Report-for-Confluence)
