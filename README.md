@@ -22,6 +22,6 @@
 
 ### Studying in this moment:
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
-![Robot Framework](https://img.shields.io/badge/-Robot-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+![RobotFramework](https://img.shields.io/badge/-RobotFramework-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
