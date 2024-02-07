@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Soares;I'm+a+Backend+Developerfrom+Brazil;Be+Welcome!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Soares;I'm+a+Backend+Developer+from+Brazil;Be+Welcome!+:D)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielSSGF&bg_color=0d1117&color=6495ED&line=708090&point=6495ED&area=true&area_color=6495ED&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
